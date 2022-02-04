@@ -1,3 +1,3 @@
 # AIM game
 
-Simple game with responsible design
+Simple game with responsive design
